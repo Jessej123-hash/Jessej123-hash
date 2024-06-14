@@ -19,8 +19,18 @@
 <li> <a href="contacts.html>contacts
 <li> <a href="login.html">login 
 <li> <a href="register.html">register 
-
-
+nav ul {
+list-style-type:none;
+padding:0;
+background-colour:#333;
+overflow: hidden 
+{
+nav ul li a{
+display: block;
+colour:white;
+text-align: centre;
+padding:24px 36px;
+text-decoration:none
 
 
 
